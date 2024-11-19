@@ -19,8 +19,3 @@ The dataset consists of 6,497 entries with 13 features, including:
 - Perform exploratory data analysis (EDA) to uncover patterns and correlations.
 - Build predictive models for wine quality classification.
 - Compare red and white wine properties.
-
-## Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-repo-name.git
